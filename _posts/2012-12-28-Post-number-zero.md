@@ -15,6 +15,6 @@ For awhile, I let it sit dormant until Amazon announced [root domain website hos
 
 I would like to improve my writing skills, so this site will mostly be a vehicle to that end. Likely topics include bikes, books, movies, or anything that deserves more than 140 characters' worth of attention.
 
-'till next time,
+'til next time,
 
 Carlin
