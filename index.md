@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Nothing to see here
+title: Marching on down to Fennario
 tagline:
 ---
 {% include JB/setup %}
 
-Blog Posts
+
+## Blog Posts
 
 <ul class="posts">
   {% for post in site.posts %}
