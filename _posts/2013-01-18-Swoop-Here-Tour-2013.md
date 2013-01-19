@@ -22,6 +22,7 @@ the coming days. The six days that followed were jampacked with epic adventure.
 Ladies and gentlemen, I present to you the Swoop Here Tour 2013!
 
 ![swoop here banner](/images/swoopheretour2013/swoop-here-sponsors.jpg)
+Special credit to Ian for making these *epic* banners.
 
 Stay tuned -- the following posts will recount the zany adventures undertaken by
 six bike nerds in the cold winter wilderness of California!
