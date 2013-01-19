@@ -1,9 +1,13 @@
 ---
 layout: page
-title: Marching on down to Fennario
+title: One Forty Plus
 tagline:
 ---
 {% include JB/setup %}
+
+Welcome to my home on the web. I'm a data and analytics engineer, cyclist, and San Francisco resident.
+Here, you'll find a collection of things that don't fit on [Twitter](https://twitter.com/carlineng/) or
+[Instagram](http://instagram.com/carlineng).
 
 
 ## Blog Posts
