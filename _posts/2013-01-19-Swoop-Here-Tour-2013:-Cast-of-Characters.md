@@ -19,11 +19,11 @@ here is the cast of adventurers.
 ![Carlin](/images/swoopheretour2013/mug_shots/carlin.jpg)
 This is me! I'm riding a Surly Cross Check. I bought the bike from Box Dog Bikes in
 the summer of 2011. The bike has been through many different iterations, and the frame
-has certainly lived up to its name as a true all-rounder. I've ridden it as a
+has certainly lived up to its name as an all-rounder. I've ridden it as a
 road bike, a cyclocross racer, a randonneur, and most recently on this trip, a loaded
 tourer. My favorite piece on this bike is definitely the handlebar bag, made by Loyal Designs
 in Richmond, CA. The bag gives me a surprising amount of extra carrying capacity and
-keeps commonly accessed items (such as snacks or extra layers of clothing) within easy
+keeps commonly accessed items such as snacks or extra layers of clothing within easy
 reach. The rear rack (Tubus Luna) is only rated for 40 pounds of weight. Luckily, with
 such a big group, heavier items like camp stoves needn't be carried by all members, so
 I could get away with carrying a little less than if I were solo or with just one other.
@@ -54,7 +54,7 @@ the frame still suffered from minor shimmy throughout the trip.
 ## Luke
 ![Luke](/images/swoopheretour2013/mug_shots/luke.jpg)
 The most colorful beast of the bunch, Luke, sports a pink Bruce Gordon Hikari draped
-with a flashy handlebar bag and panniers, both made by Swift Industries. On his head
+with flashy panniers bags, all made by Swift Industries. On his head
 sits a cap from Golden Saddle Cyclery, an undeniably hip bike shop located in LA. The
 shop and its hordes of hypebeast acolytes would later become the subject of much 
 mockery throughout the tour.
