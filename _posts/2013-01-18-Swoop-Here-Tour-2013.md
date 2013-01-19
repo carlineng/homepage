@@ -18,7 +18,7 @@ and turn back home after the first night of camping.
 
 On Friday, January 11, dead tired from a tough week at work and scrambling to finish
 my last minute packing and bike maintenance, I went to bed anxious and excited for
-the coming days. The six days that followed were jampacked with epic adventure.
+the coming days. The six days that followed were jampacked with adventure.
 Ladies and gentlemen, I present to you the Swoop Here Tour 2013!
 
 ![swoop here banner](/images/swoopheretour2013/swoop-here-sponsors.jpg)
