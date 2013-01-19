@@ -12,7 +12,7 @@ I could rely on their expertise and equipment to make up for my own lack of eith
 Unfortunately, travel logistics became too complicated, and to simplify matters, we
 decided instead to travel to Pinnacles National Monument in mid-January.
 Two others joined us for the full tour: our randonneuring friend Ian, and Irving's 
-buddy from the Serotta Classifieds forums.
+buddy from the Serotta Classifieds forums, Luke.
 Noah, unsure of his biking ability, figured he would join for the beginning of the tour 
 and turn back home after the first night of camping.
 
