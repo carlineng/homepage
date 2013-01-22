@@ -54,7 +54,7 @@ the frame still suffered from minor shimmy throughout the trip.
 ## Luke
 ![Luke](/images/swoopheretour2013/mug_shots/luke.jpg)
 The most colorful beast of the bunch, Luke, sports a pink Bruce Gordon Hikari draped
-with flashy panniers bags, all made by Swift Industries. On his head
+with flashy panniers and bags, all made by Swift Industries. On his head
 sits a cap from Golden Saddle Cyclery, an undeniably hip bike shop located in LA. The
 shop and its hordes of hypebeast acolytes would later become the subject of much 
 mockery throughout the tour.
