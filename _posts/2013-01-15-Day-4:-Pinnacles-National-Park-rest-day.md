@@ -28,7 +28,7 @@ in feeding the flames and used all the firewood in one glorious 30 minute blaze.
 When the flames started to die out, they became desperate and started foraging for
 scraps of dried and dead wood.
 
-![Frosty bike](/images/swoopheretour2013/00_frosty_bike.jpg)
+![Frosty bike](/images/swoopheretour2013/day4/00_frosty_bike.jpg)
 
 Around 8, after a mostly sleepless night Irving returned to his tent to try and
 catch some shut-eye. Around the same time, Ian emerged from the tent and we
@@ -39,7 +39,7 @@ campgrounds -- rabbits, quail, sparrows and more. Only three other
 campsites were occupied by humans, and it appeared that they had all chosen (wisely) to
 sleep in their cars.
 
-![Morning camp](/images/swoopheretour2013/01_morning_camp.jpg)
+![Morning camp](/images/swoopheretour2013/day4/01_morning_camp.jpg)
 
 By 10:30, the sun had finally risen over the horizon and cast its warm rays on our
 site. With the sun on their tents, the rest of the crew slowly started moving and
@@ -50,7 +50,7 @@ and we all agreed that a short adventure, followed by relaxing at the campground
 would be much better. We left our helmets behind and set off on the country road,
 feeling very much like participants in a Rivendell or Rapha photo shoot.
 
-![Riding to Bear Gulch](/images/swoopheretour2013/02_riding_to_bear_gulch.jpg)
+![Riding to Bear Gulch](/images/swoopheretour2013/day4/02_riding_to_bear_gulch.jpg)
 
 The way up to Bear Gulch is a short climb with a few very wide turns. Always on
 the lookout for photo opportunities, Brian insisted we stop at one of the turns and
@@ -59,22 +59,22 @@ descend full speed and lean into the turn as hard as we could I'm not a fan of
 staged "badass" photos, and only half-heartedly obliged his request. Ian manned the
 camera for Brian's turn, which ended up by far the best of the bunch.
 
-![Brian descending](/images/swoopheretour2013/03_brian_descending.jpg)
+![Brian descending](/images/swoopheretour2013/day4/03_brian_descending.jpg)
 
 We reached Bear Gulch and spent the next hour wandering through the caves 
 about a half mile from the trailhead. We could hear the sound of rushing water
 all throughout the caves, and as we climbed through the rocks, we caught an occasional
 glimpse of the river that flowed through.
 
-![In the cave](/images/swoopheretour2013/04_in_the_cave.jpg)
+![In the cave](/images/swoopheretour2013/day4/04_in_the_cave.jpg)
 
-![Cave icicles](/images/swoopheretour2013/05_cave_icicles.jpg)
+![Cave icicles](/images/swoopheretour2013/day4/05_cave_icicles.jpg)
 
 Above us, we could see water dripping
 off the cliff face and forming giant icicle patches in the shade. One particularly
 interesting ice formation had trapped and completely frozen half of large fern.
 
-![Frozen fern](/images/swoopheretour2013/06_frozen_fern.jpg)
+![Frozen fern](/images/swoopheretour2013/day4/06_frozen_fern.jpg)
 
 After circling back to the trailhead, we rolled back to the campsite and began prepping
 for the following day's ride. The next day was scheduled for 75 miles and quite a bit
@@ -86,7 +86,7 @@ we decided to err on the other side tonight and spent $55 on firewood, for five 
 We wanted to keep at least a small fire going through the entire night, so in the morning
 as we prepared to leave, we would be able to stay somewhat warm.
 
-![Dinner](/images/swoopheretour2013/07_dinner.jpg)
+![Dinner](/images/swoopheretour2013/day4/07_dinner.jpg)
 
 The sun began to set around 5:30 and painted the sky with a gorgeous palette of deep reds,
 purples, yellows, and blues. With the sun down, and most everyone in our group
@@ -98,7 +98,7 @@ We scared them off and spent the next few minutes making sure everything in our 
 was properly secured. Brian went so far as to wrap our bear locker in several layers of
 bright orange duct tape.
 
-![Sunset](/images/swoopheretour2013/08_sunset.jpg)
+![Sunset](/images/swoopheretour2013/day4/08_sunset.jpg)
 
 Not long after, I decided to call it a night and retire to my tent. My throat was extremely
 scratchy and I had several sores in my mouth, I suspect from spending so much time
