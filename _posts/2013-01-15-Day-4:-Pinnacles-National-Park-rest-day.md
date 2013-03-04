@@ -7,8 +7,8 @@ tags : [swoophere, bikes, touring, blog]
 
 ![Day 4 banner](/images/swoopheretour2013/day4.jpg)
 
-Day 4 was our rest day, a day we intended to use exploring Pinnacles, the nation's
-newly minted National Park, in all its glory. I woke up around 7 o'clock and
+Day 4 was our rest day -- a day we intended to use exploring Pinnacles, the nation's
+newly minted National Park. I woke up around 7 o'clock and
 timidly stepped outside of my tent, bracing myself for the cold. The mountains to our
 east cast a long shadow over our campground, so even though it was light out, the
 temperature was still probably in the high 30s. I had my sleeping arrangement
@@ -48,7 +48,7 @@ and cleaning up, we set off on our bikes for Bear Gulch just up the road. Althou
 we had initially planned a longer hike for our day off, everyone felt worn out
 and we all agreed that a short adventure, followed by relaxing at the campground,
 would be much better. We left our helmets behind and set off on the country road,
-feeling very much like participants in a Rivendell or Rapha photo shoot.
+feeling very much like subjects of a Rivendell or Rapha catalog.
 
 ![Riding to Bear Gulch](/images/swoopheretour2013/day4/02_riding_to_bear_gulch.jpg)
 
@@ -59,7 +59,7 @@ descend full speed and lean into the turn as hard as we could I'm not a fan of
 staged "badass" photos, and only half-heartedly obliged his request. Ian manned the
 camera for Brian's turn, which ended up by far the best of the bunch.
 
-![Brian descending](/images/swoopheretour2013/day4/03_brian_descending.jpg)
+![Brian descending](/images/swoopheretour2013/day4/03_brian_descending.png)
 
 We reached Bear Gulch and spent the next hour wandering through the caves 
 about a half mile from the trailhead. We could hear the sound of rushing water
@@ -91,7 +91,7 @@ as we prepared to leave, we would be able to stay somewhat warm.
 The sun began to set around 5:30 and painted the sky with a gorgeous palette of deep reds,
 purples, yellows, and blues. With the sun down, and most everyone in our group
 still hungover from the night before, we huddled around the fire and spent the evening
-chatting. At one point, our conversation was interupted by a rustling on the picnic
+chatting. At one point, our conversation was interrupted by a rustling on the picnic
 table. A band of four raccoons hopped on the table, a mere five or so feet
 behind us, and tried to steal a package of hot dogs that we had carelessly left out.
 We scared them off and spent the next few minutes making sure everything in our campground
@@ -104,4 +104,4 @@ Not long after, I decided to call it a night and retire to my tent. My throat wa
 scratchy and I had several sores in my mouth, I suspect from spending so much time
 near the campfire and breathing the smoke-filled air. Even though it was chilly in my tent,
 it was a relief to breath the clean, fresh air. I wrapped myself in my sleeping bag like
-an overstuffed Chipotle burrito and drifted off.
+an overstuffed Chipotle burrito and drifted off to sleep.
