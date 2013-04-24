@@ -1,6 +1,6 @@
 ---
 layout: page
-title: One Forty Plus
+title: The Rambling Ruminations of a Retrogrouch Rouleur
 tagline:
 ---
 {% include JB/setup %}
