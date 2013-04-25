@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Rambling Ruminations of a Retrogrouch Rouleur
+title: Vélo vos Liberabit
 tagline:
 ---
 {% include JB/setup %}
