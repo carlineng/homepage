@@ -7,7 +7,7 @@ tags : [newbikeday, bikes, rocklobster, cyclocross, blog]
 
 Ladies and gentlemen, I proudly present to you my newest bicycle: a custom, tig-welded, steel [Rock Lobster](http://www.rocklobstercycles.com/). I ordered this back on November in the midst of CX season. After three races, I came down with a serious case of the cyclocross bug, and I’ve always been a huge fan of Paul Sadoff’s no-nonsense, pragmatic, rider-comes-first philosophy towards bikes and frame-building, so it made perfect sense for me to order a frame from him. The guy works hard, is great at what he does, and genuinely loves the sport of cycling and the community around it.
 
-I've named the bike Edna, which comes from one of my favorite TV shows, Futurama. Zoidberg is the show's resident crustacean and medical doctor, and Edna is the object of his unrequited desire. As a bonus, the name keeps alive my previous tradition of christening my bikes with outdated ladies' names (my Cross Check is named Dottie).
+I've named the bike Edna, which comes from one of my favorite TV shows, Futurama. Zoidberg is the show's resident crustacean and medical doctor, and Edna is the object of his unrequited desire -- [a drop-dead gorgeous decapodian babe](http://futurama.wikia.com/wiki/Edna). As a bonus, the name keeps alive my previous tradition of christening my bikes with outdated ladies' names (my Cross Check is named Dottie).
 
 ![Rock Lobster CX](/images/rock_lobster_complete.jpg)
 
